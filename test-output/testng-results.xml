@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1070" started-at="2019-06-12T11:21:47Z" finished-at="2019-06-12T11:21:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1070" started-at="2019-06-12T11:21:47Z" finished-at="2019-06-12T11:21:48Z">
+      <class name="MavenDemo.ExcelReaderRowColoum">
+        <test-method status="PASS" signature="excelReader()[pri:0, instance:MavenDemo.ExcelReaderRowColoum@3abbfa04]" name="excelReader" duration-ms="1032" started-at="2019-06-12T16:51:47Z" finished-at="2019-06-12T16:51:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelReader -->
+      </class> <!-- MavenDemo.ExcelReaderRowColoum -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Suite" parallel="classes">
+  <test thread-count="3" name="Test" parallel="classes">
+  
+     
+    <classes>
+    
+      <class name="MSPS_Script.UserAutomationTimeSheet"/>
+      <class name="MSPS_Script.Second_URL"/>
+      <class name="MSPS_Script.Third_URL"/>
+     
+    </classes>
+    
+   
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
